@@ -1,7 +1,7 @@
 {
-	"ip": "game2.falixnodes",
+	"ip": "game2.falixserver.net",
 	"username": "NoNameBot",
-	"port": ,
+	"port": 38973,
 	"autonightskip": false,
 	"pi": 3.14159,
 	"moveinterval": 2,
